@@ -1,19 +1,33 @@
 <h1 align="center"><b>Hi , I'm Samuel Pérez Serna </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<h3 align="center">A passionate Python Developer from Colombia</h3>
 
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnN0MGhkZjg4eDhqdDN6bWdieG1pNjgzejc2eng4NTkyZ2IxN3dmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
+</a>
 
+```python
+class WhoIam():
+    
+  def __init__(self):
+    self.name = "Samuel Pérez Serna";
+    self.username = "SamuelPerezCO";
+    self.location = "Antioquia, Colombia";
+    self.instagram = "@unp_soft";
+  
+  def __str__(self):
+    return self.name
 
-<!--
-**SamuelPerezCO/SamuelPerezCO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+if __name__ == '__main__':
+    me = SamuelPerezCO()
+```
 
-Here are some ideas to get you started:
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<picture> <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW85dXJhdmQyZ2k1eGk3aDlvdXNtanhzcWJoaXpyaDdqZ2h2bWw3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NaDfUq0PoLm7UAtUu1/giphy.gif" width = 250px></picture>
+- 🏫 I hold a `professional technician degree in Information Systems Programming` from Politecnico Colombiano Jaime Isaza Cadavid University.
+- 👨‍💻 I love using Software as a solution for every `Problem`.
+- ⌨️ I completed my professional internship at `Bancolombia`, where I developed automations using Python
+- 🤓 I am currently reviewing and strengthening my knowledge in `Python`
+- 📝 I am self-taught through `Platzi` courses
+- 📚 You can view all my `certificates` from Platzi and other platforms at this link 👉 [certificates]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
