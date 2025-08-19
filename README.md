@@ -7,7 +7,7 @@
 </a>
 
 ```python
-class WhoIam():
+class WhoIam:
     
   def __init__(self):
     self.name = "Samuel Pérez Serna";
@@ -30,6 +30,7 @@ if __name__ == '__main__':
 - 🤓 I am currently reviewing and strengthening my knowledge in `Python`
 - 📝 I am self-taught through `Platzi` courses
 - 📚 You can view all my `certificates` from Platzi and other platforms at this link 👉 [certificates](https://github.com/SamuelPerezCO/Certificaciones)
+  
 <br><br>
 <div id="user-content-toc">
   <ul align="center">
@@ -58,14 +59,14 @@ if __name__ == '__main__':
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=SamuelPerezCO&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelPerezCO&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SamuelPerezCO&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
