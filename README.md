@@ -44,7 +44,7 @@ if __name__ == '__main__':
   </a>
 </p>
 
-<br><br>
+<br>
 
 <div id="user-content-toc">
   <ul align="center">
