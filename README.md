@@ -29,5 +29,5 @@ if __name__ == '__main__':
 - ⌨️ I completed my professional internship at `Bancolombia`, where I developed automations using Python
 - 🤓 I am currently reviewing and strengthening my knowledge in `Python`
 - 📝 I am self-taught through `Platzi` courses
-- 📚 You can view all my `certificates` from Platzi and other platforms at this link 👉 [certificates]()
+- 📚 You can view all my `certificates` from Platzi and other platforms at this link 👉 [certificates](https://github.com/SamuelPerezCO/Certificaciones)
 
