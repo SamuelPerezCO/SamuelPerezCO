@@ -30,7 +30,7 @@ if __name__ == '__main__':
 - 🤓 I am currently reviewing and strengthening my knowledge in `Python`
 - 📝 I am self-taught through `Platzi` courses
 - 📚 You can view all my `certificates` from Platzi and other platforms at this link 👉 [Certificates](https://github.com/SamuelPerezCO/Certificaciones)
-- 👨‍🎓 I am currently studying to achieve a B2 level in English
+- 👨‍🎓 I am currently studying to achieve a C1 level in English
   
 <br><br>
 <div id="user-content-toc">
