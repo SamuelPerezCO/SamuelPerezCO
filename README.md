@@ -13,7 +13,7 @@ class WhoIam:
     self.name = "Samuel Pérez Serna";
     self.username = "SamuelPerezCO";
     self.location = "Antioquia, Colombia";
-    self.instagram = "@unp_soft";
+    self.instagram = "@unaneaprogramadora";
   
   def __str__(self):
     return self.name
