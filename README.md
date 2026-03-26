@@ -31,6 +31,7 @@ if __name__ == '__main__':
 - 📝 I am self-taught through `Platzi` courses
 - 📚 You can view all my `certificates` from Platzi and other platforms at this link 👉 [Certificates](https://github.com/SamuelPerezCO/Certificaciones)
 - 👨‍🎓 I am currently studying to achieve a C1 level in English
+- 🔍 Right now I'm investigating everything about VIBE Code.
   
 <br><br>
 <div id="user-content-toc">
@@ -99,4 +100,4 @@ if __name__ == '__main__':
   
 </div>
 
-Last Edited on: 19/08/2025
+Last Edited on: 03/26/2026
