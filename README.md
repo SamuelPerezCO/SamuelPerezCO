@@ -60,9 +60,6 @@ if __name__ == '__main__':
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=SamuelPerezCO&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelPerezCO&theme=dark&hide_border=false" /> 
 </td>
 
