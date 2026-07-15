@@ -37,6 +37,8 @@ class SamuelPerez:
 
         self.company = "UNP Software"
 
+        self.username = "SamuelPerezCO"
+
         self.languages = [
             "Python",
             "Java",
