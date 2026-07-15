@@ -99,3 +99,146 @@ class SamuelPerez:
 | 🤖 Telegram Bots | Automation bots using Python |
 | 🌐 SIIC Repository | University research website |
 | 📚 SIIC-BD | Java + Oracle platform |
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SamuelPerezCO&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelPerezCO&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SamuelPerezCO&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SamuelPerezCO&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SamuelPerezCO&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+
+# 📦 GitHub Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamuelPerezCO&theme=github_dark"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamuelPerezCO&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SamuelPerezCO&theme=github_dark"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SamuelPerezCO&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SamuelPerezCO&theme=github_dark&utcOffset=-5"/>
+
+</div>
+
+---
+
+# ⚡ Current Goals
+
+```text
+🎯 Build AI products
+🎯 Grow UNP Software
+🎯 Master Django
+🎯 Contribute to Open Source
+🎯 Get 10.000 Followers in Instagram
+🎯 Build a SaaS
+🎯 Keep learning every day
+```
+
+---
+
+# 💡 Fun Facts
+
+- 🐍 Python is my favorite language.
+- 🤖 I love building automation tools.
+- ⚡ I enjoy turning repetitive tasks into one-click solutions.
+- 🌙 I'm usually more productive at night.
+- 💻 Most of my ideas start in VS Code.
+- 🚀 Every project teaches me something new.
+
+---
+
+# 🌎 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/samuel-perez-serna">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/unaneaprogramadora/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:unpsoftware@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SamuelPerezCO">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+# ☕ Support My Work
+
+If you like my projects, consider giving them a ⭐.
+
+It motivates me to keep building useful software for the community.
+
+---
+
+<div align="center">
+
+### ⚡ "Building software that saves people time."
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=120&section=footer"/>
+
+</div>
