@@ -6,7 +6,7 @@
   <img align="right" height="300" width="400" alt="Coding GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnN0MGhkZjg4eDhqdDN6bWdieG1pNjgzejc2eng4NTkyZ2IxN3dmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 </a>
 ```python
-class SamuelPerez:
+class SamuelPerezCO:
  
     def __init__(self):
         self.name = "Samuel Pérez Serna"
@@ -20,11 +20,11 @@ class SamuelPerez:
  
  
 if __name__ == "__main__":
-    me = SamuelPerez()
+    me = SamuelPerezCO()
     print(me)
 ```
  
-<picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
  
 <picture><img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW85dXJhdmQyZ2k1eGk3aDlvdXNtanhzcWJoaXpyaDdqZ2h2bWw3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NaDfUq0PoLm7UAtUu1/giphy.gif" width="250px"></picture>
  
@@ -56,7 +56,6 @@ if __name__ == "__main__":
     <summary><h2 style="display: inline-block">Featured Projects 🛠️</h2></summary>
   </ul>
 </div>
-<p align="center">
 | Project | Description | Tech |
 |---------|-------------|------|
 | [CRUD Consultorio Médico](https://github.com/SamuelPerezCO/CRUD_ConsultorioMedico) | Desktop app to manage patients, medical histories, and appointments for a clinic | Python, CustomTkinter, SQLite |
@@ -64,7 +63,6 @@ if __name__ == "__main__":
 | [SIIC Repositorio](https://github.com/SamuelPerezCO/SIIC-Repositorio) | Website for a university research group (PPI project) | HTML, CSS |
 | [Siic-BD](https://github.com/SamuelPerezCO/Siic-BD) | Web platform for publishing research group sessions and materials | Java, Oracle XE, PL/SQL |
  
-</p>
 <br>
 <div id="user-content-toc">
   <ul align="center">
@@ -98,7 +96,7 @@ if __name__ == "__main__":
 </p>
 <!--profile visit count-->
 <div align="center">
-[![](https://visitcount.itsvg.in/api?id=SamuelPerezCO&icon=3&color=6)](https://visitcount.itsvg.in)
+![Profile views](https://komarev.com/ghpvc/?username=SamuelPerezCO&color=blueviolet)
  
 </div>
-<p align="right"><sub>Last edited: 07/14/2026</sub></p>
+<p align="right"><sub>Last edited: 07/15/2026</sub></p>
