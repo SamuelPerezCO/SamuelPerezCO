@@ -25,14 +25,14 @@ if __name__ == "__main__":
  
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW85dXJhdmQyZ2k1eGk3aDlvdXNtanhzcWJoaXpyaDdqZ2h2bWw3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NaDfUq0PoLm7UAtUu1/giphy.gif" width="250">
 - 🏫 I hold a **professional technician degree in Information Systems Programming** from Politécnico Colombiano Jaime Isaza Cadavid. <br>
-- 👨‍💻 I love using software as the solution to every **problem**.
-- ⌨️ I completed my professional internship at **Bancolombia**, where I built automations with Python.
-- 🚀 I'm currently building real-world projects: Telegram bots, Django dashboards, and workflow automations.
-- 🤓 I'm strengthening my **Python** skills every day through hands-on, project-driven learning.
-- 📝 I'm self-taught through **Platzi** courses.
-- 📚 You can view all my **certificates** here 👉 [Certificates](https://github.com/SamuelPerezCO/Certificaciones)
-- 👨‍🎓 I'm currently working toward a **C1 level in English**.
-- 🔍 Right now I'm exploring everything about **AI-assisted coding ("vibe coding")**.
+- 👨‍💻 I love using software as the solution to every **problem**.<br>
+- ⌨️ I completed my professional internship at **Bancolombia**, where I built automations with Python.<br>
+- 🚀 I'm currently building real-world projects: Telegram bots, Django dashboards, and workflow automations.<br>
+- 🤓 I'm strengthening my **Python** skills every day through hands-on, project-driven learning.<br>
+- 📝 I'm self-taught through **Platzi** courses.<br>
+- 📚 You can view all my **certificates** here 👉 [Certificates](https://github.com/SamuelPerezCO/Certificaciones)<br>
+- 👨‍🎓 I'm currently working toward a **C1 level in English**.<br>
+- 🔍 Right now I'm exploring everything about **AI-assisted coding ("vibe coding")**.<br>
 <br clear="right">
 ## 👨🏻‍💻 Technologies I Work With
  
