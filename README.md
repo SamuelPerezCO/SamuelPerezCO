@@ -24,7 +24,7 @@ if __name__ == "__main__":
 ## 🙋 About Me
  
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW85dXJhdmQyZ2k1eGk3aDlvdXNtanhzcWJoaXpyaDdqZ2h2bWw3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NaDfUq0PoLm7UAtUu1/giphy.gif" width="250">
-- 🏫 I hold a **professional technician degree in Information Systems Programming** from Politécnico Colombiano Jaime Isaza Cadavid.
+- 🏫 I hold a **professional technician degree in Information Systems Programming** from Politécnico Colombiano Jaime Isaza Cadavid. <br>
 - 👨‍💻 I love using software as the solution to every **problem**.
 - ⌨️ I completed my professional internship at **Bancolombia**, where I built automations with Python.
 - 🚀 I'm currently building real-world projects: Telegram bots, Django dashboards, and workflow automations.
