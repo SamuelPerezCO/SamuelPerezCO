@@ -122,16 +122,6 @@ class SamuelPerez:
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SamuelPerezCO&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</div>
-
----
-
 # 📈 Contribution Graph
 
 <div align="center">
@@ -151,7 +141,7 @@ class SamuelPerez:
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelPerezCO&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
-
+---
 <br>
 
 <div align="center">
