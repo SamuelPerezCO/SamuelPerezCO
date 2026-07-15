@@ -142,11 +142,13 @@ class SamuelPerez:
 
 ---
 
-# 📦 GitHub Summary
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamuelPerezCO&theme=github_dark"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SamuelPerezCO&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelPerezCO&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -154,22 +156,9 @@ class SamuelPerez:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamuelPerezCO&theme=github_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SamuelPerezCO&theme=github_dark"/>
+<img src="https://streak-stats.demolab.com?user=SamuelPerezCO&theme=github-dark&hide_border=true"/>
 
 </div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SamuelPerezCO&theme=github_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SamuelPerezCO&theme=github_dark&utcOffset=-5"/>
-
-</div>
-
 ---
 
 # ⚡ Current Goals
