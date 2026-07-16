@@ -139,7 +139,9 @@ class SamuelPerez:
 <img src="https://streak-stats.demolab.com?user=SamuelPerezCO&theme=github-dark&hide_border=true"/>
 
 </div>
+
 ---
+
 
 # ⚡ Current Goals
 
